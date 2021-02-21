@@ -98,3 +98,7 @@ app.post("/login", function(req, res){
 app.listen(3000, function() {
     console.log("Server started on port 3000");
 });
+
+// "C:\Program Files\MongoDB\Server\4.4\bin\mongod.exe" --dbpath="c:\data\db"
+
+// "C:\Program Files\MongoDB\Server\4.4\bin\mongo.exe"
