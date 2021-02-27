@@ -1,6 +1,6 @@
 <h1 align="center">Share your Secret app 🤫</h1>
 
-<p>Share your Secret app, you can share your secret anonymously😲 with everyone.</p>
+<p>In Share your Secret app, you can share your secret anonymously😲 with everyone. And you can view secrets of others also</p>
 
 <h4>Languages Used</h4>
 <ul>
