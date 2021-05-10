@@ -28,3 +28,7 @@
     <li>passport-local-mongoose</li>
     <li>express-session</li>
 </ul>
+
+<br>
+
+[![Github All Releases](https://img.shields.io/github/downloads/dikshitakambri/Share-Your-secret-Fun-website-/total.svg)]()
